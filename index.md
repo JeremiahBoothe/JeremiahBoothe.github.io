@@ -1,6 +1,6 @@
 ---
 title: Jeremiah Boothe - CS 499 Capstone
-layout: page
+layout: post
 ---
 # I. Informal Code Review:
 
