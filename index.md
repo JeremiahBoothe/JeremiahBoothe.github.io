@@ -1,7 +1,8 @@
 ---
 title: Jeremiah Boothe - CS 499 Capstone
-layout: post
+layout: default
 ---
+
 # I. Informal Code Review:
 
 After you have identified the artifact or artifacts for your ePortfolio, but before you complete the modifications and enhancements, you will produce a code
