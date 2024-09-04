@@ -9,7 +9,7 @@ review video to share your plans for modification and enhancement. Your code rev
 outcomes. Submit your code review in the form of a video presentation or screencast walkthrough. Your audience for this code review is your peers or your manager. Focus on
 explaining how your code works and why you will complete the enhancement you are planning; do not worry about getting too technical. Address the following in your code reviews:
 
-    ## A. Existing functionality:
+## A. Existing functionality:
     Provide a detailed walkthrough focused on the features and functionality of the existing code (before enhancements).
 
 ## B. Code Analysis:
@@ -96,8 +96,6 @@ Address the following topics: collaborating in a team environment, communicating
 ## B. 
 Summarize and introduce how your artifacts fit together and inform the portfolio as a whole.
 
-### 1. 
-This summary will help demonstrate the full range of your computer science talents and abilities.
+### 1. This summary will help demonstrate the full range of your computer science talents and abilities.
 
-### 2. 
-This section should introduce your audience to the technical artifacts that follow the professional self-assessment.
+### 2. This section should introduce your audience to the technical artifacts that follow the professional self-assessment.
