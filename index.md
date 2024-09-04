@@ -79,8 +79,7 @@ met?
 # III. Professional Self-Assessment:
 For your ePortfolio, you will write a professional self-assessment. In it, you will reflect on the capstone and your experience in the Computer Science program. Your professional self-assessment will serve as the formal introduction to your portfolio. You will add it to the beginning of your portfolio for your final submission in Module Seven.
 
-Employers often interview a number of technically qualified candidates, so you should try to emphasize aspects of your ePortfolio that set you apart and quantifiably illustrate your
-competence and employability. In addition, the professional self-assessment is an opportunity to showcase your superior computer science knowledge, skills, and expertise. Be sure that your professional self-assessment is well-organized and thoughtful and that it effectively communicates your strengths in the field of computer science. The self-assessment might be a great first draft of a cover letter and useful as you apply for jobs with your new degree. Take advantage of your instructor’s feedback for this reason.
+Employers often interview a number of technically qualified candidates, so you should try to emphasize aspects of your ePortfolio that set you apart and quantifiably illustrate your competence and employability. In addition, the professional self-assessment is an opportunity to showcase your superior computer science knowledge, skills, and expertise. Be sure that your professional self-assessment is well-organized and thoughtful and that it effectively communicates your strengths in the field of computer science. The self-assessment might be a great first draft of a cover letter and useful as you apply for jobs with your new degree. Take advantage of your instructor’s feedback for this reason.
 
 Include the following in your professional self-assessment:
 
