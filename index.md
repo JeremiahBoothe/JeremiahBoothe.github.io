@@ -1,5 +1,5 @@
 ---
-title: Jeremiah Boothe - CS 499 Capstone
+title: Android - Full Circle - by Jeremiah Boothe
 layout: default
 ---
 
