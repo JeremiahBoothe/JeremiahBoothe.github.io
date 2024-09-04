@@ -9,8 +9,8 @@ review video to share your plans for modification and enhancement. Your code rev
 outcomes. Submit your code review in the form of a video presentation or screencast walkthrough. Your audience for this code review is your peers or your manager. Focus on
 explaining how your code works and why you will complete the enhancement you are planning; do not worry about getting too technical. Address the following in your code reviews:
 
-## A. Existing functionality:
-Provide a detailed walkthrough focused on the features and functionality of the existing code (before enhancements).
+    ## A. Existing functionality:
+    Provide a detailed walkthrough focused on the features and functionality of the existing code (before enhancements).
 
 ## B. Code Analysis:
 Target areas for improvement such as structure, logic, efficiency, functionality, security, testing, commenting, and documenting.
@@ -33,7 +33,7 @@ JavaScript, or building a full stack with a different programming language for y
 
 **Additional Notes:**
 
-+ You may choose artifacts from the courses listed below.
+- You may choose artifacts from the courses listed below.
 - You only need to choose one enhancement per category.
 - You can choose the same artifact for multiple enhancements.
 - The suggestions for each category are just recommendations. Consider being creative and proposing an alternative enhancement to your instructor.
