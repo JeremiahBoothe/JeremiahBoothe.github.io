@@ -32,7 +32,8 @@ For this category of enhancement, consider adding more advanced concepts of MySQ
 JavaScript, or building a full stack with a different programming language for your ar�fact.
 
 **Additional Notes:**
-- You may choose artifacts from the courses listed below.
+
++ You may choose artifacts from the courses listed below.
 - You only need to choose one enhancement per category.
 - You can choose the same artifact for multiple enhancements.
 - The suggestions for each category are just recommendations. Consider being creative and proposing an alternative enhancement to your instructor.
@@ -84,8 +85,7 @@ Employers often interview a number of technically qualified candidates, so you s
 Include the following in your professional self-assessment:
 
 ## A. 
-Discuss how completing your coursework throughout the program and developing the ePortfolio has helped you showcase your strengths, shape your professional goals and
-values, and prepare to enter or become more employable in the computer science field.
+Discuss how completing your coursework throughout the program and developing the ePortfolio has helped you showcase your strengths, shape your professional goals and values, and prepare to enter or become more employable in the computer science field.
 
 ### 1. 
 Use specific examples from your program and include examples outside of the artifacts included in your ePortfolio.
