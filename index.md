@@ -105,9 +105,9 @@ Discuss how completing your coursework throughout the program and developing the
 
 Use specific examples from your program and include examples outside of the artifacts included in your ePortfolio.
 
-### 2. 
+### 2. Address the following topics:
 
-Address the following topics: collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and database, and security. This section should function as an overall introduction to your skills, not a discussion of the artifacts.
+collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and database, and security. This section should function as an overall introduction to your skills, not a discussion of the artifacts.
 
 ## B. 
 
