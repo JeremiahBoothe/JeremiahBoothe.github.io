@@ -1,7 +1,7 @@
 #remote_theme: pages-themes/midnight@v0.2.0
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
-theme: bulma-clean-theme
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 permalink: pretty
 title: [Android - Full Circle]
 description: [CS 499 Capstone]
