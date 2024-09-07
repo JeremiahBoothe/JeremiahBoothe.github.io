@@ -1,9 +1,9 @@
 style: is-light
 items:
-  - title: Multiple page layouts
-    subtitle: Including sidebar, menubar, tabs and callouts
+  - title: Resume
+    subtitle: ATS Compliant Resume
     icon: fa-copy
-  - title: Blog included
+  - title: Blog
     subtitle: Layouts for blog and post pages included
     icon: fa-mail-bulk
   - title: Works with GitHub Pages
