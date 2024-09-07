@@ -1,6 +1,6 @@
 style: is-light
 items:
-  - title: [[Multiple page layouts]]
+  - title: Multiple page layouts
     subtitle: Including sidebar, menubar, tabs and callouts
     icon: fa-copy
   - title: Blog included
@@ -10,3 +10,5 @@ items:
     subtitle: Quick and easy to get started
     icon: fa-github
     icon_brand: true
+    call_to_action_name: Call to action 2
+    call_to_action_link: /page-2/
