@@ -15,4 +15,4 @@ items:
     icon: fa-github
     icon_brand: true
     call_to_action_name: Github
-    call_to_action_link: [https://github.com/JeremiahBoothe/Android_Full_Circle]
+    call_to_action_link: https://github.com/JeremiahBoothe/Android_Full_Circle
