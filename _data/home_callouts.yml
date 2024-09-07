@@ -3,12 +3,16 @@ items:
   - title: Resume
     subtitle: ATS Compliant Resume
     icon: fa-copy
+    call_to_action_name: Resume
+    call_to_action_link: /page-2/
   - title: Blog
-    subtitle: Layouts for blog and post pages included
+    subtitle: Working through the process
     icon: fa-mail-bulk
-  - title: Works with GitHub Pages
-    subtitle: Quick and easy to get started
+    call_to_action_name: Blog
+    call_to_action_link: /page-2/
+  - title: Github
+    subtitle: Android App on Github
     icon: fa-github
     icon_brand: true
-    call_to_action_name: Call to action 2
+    call_to_action_name: Github
     call_to_action_link: /page-2/
