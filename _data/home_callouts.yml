@@ -4,12 +4,12 @@ items:
     subtitle: ATS Compliant Resume
     icon: fa-copy
     call_to_action_name: Resume
-    call_to_action_link: /page-2/
+    call_to_action_link: /resume/
   - title: Blog
     subtitle: Working through the process
     icon: fa-mail-bulk
     call_to_action_name: Blog
-    call_to_action_link: /page-2/
+    call_to_action_link: /blog/
   - title: Github
     subtitle: Android App on Github
     icon: fa-github
