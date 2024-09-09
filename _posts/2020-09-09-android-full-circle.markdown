@@ -4,9 +4,9 @@ title:  "Android Full Circle"
 date:   2020-09-09 10:50:07
 categories: development
 description: "Revisiting the project that inspired me to return to college after 20 years, and earn my Computer Science Degree"
-image: 'https://www.csrhymes.com//img/static-site-generator.jpg'
+image: 'https://jeremiahboothe.github.io/img/static-site-generator.jpg'
 published: true
-canonical_url: https://www.csrhymes.com/development/2020/09/09/android_full_circle.html
+canonical_url: https://jeremiahboothe.github.io/development/2020/09/09/android_full_circle.html
 ---
 
 There are many ways to make a website and many different CMS platforms you can use, such as WordPress and Joomla, as well as site builder tools that offer you drag and drop interfaces, but what about static site generators? 
