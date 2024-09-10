@@ -46,5 +46,4 @@ social:
   tiktok: https://www.tiktok.com/
   x: https://www.x.com/
   youtube: https://www.youtube.com/
-
 ```
