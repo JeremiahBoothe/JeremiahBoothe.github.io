@@ -17,11 +17,7 @@
       link: /example-recipe/
     - name: Showcase
       link: /showcase/
-
 - name: Blog
-  link: /blog/#
-  dropdown:
-    - name: Android Full Circle
-      link: /androidfullcircle/
+  link: /blog/
 
   
