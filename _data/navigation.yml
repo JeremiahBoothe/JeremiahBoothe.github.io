@@ -20,6 +20,6 @@
 - name: Blog
   dropdown:
     - name: Android Full Circle
-      link: /blog/androidfullcircle/
+      link: /androidfullcircle/
   link: /blog/
   
