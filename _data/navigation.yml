@@ -22,7 +22,7 @@
   link: /blog
   dropdown:
     - name: Android Full Circle
-      link: /androidfullcircle/
+      link: /series/
     - name: Series
       link: /series/
 
