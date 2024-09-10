@@ -19,7 +19,7 @@
       link: /showcase/
 - name: Blog
   dropdown:
-    - name: Series
-      link: /androidfullcircle/
+    - name: Android Full Circle
+      link: /blog/androidfullcircle/
   link: /blog/
   
