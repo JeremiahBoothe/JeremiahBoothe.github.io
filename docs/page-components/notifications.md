@@ -42,7 +42,7 @@ icon="fas fa-exclamation-triangle" %}
 The notification message can also be written in markdown. 
 
 {% include notification.html 
-message="This **message** contains _markdown_ and a [link](https://www.csrhymes.com).
+message="This **message** contains _markdown_ and a [link](https://jeremiahboothe.github.io).
 
 It also contains a second paragraph and a list.
 
@@ -53,7 +53,7 @@ It also contains a second paragraph and a list.
 {% raw %}
 ```liquid
 {% include notification.html 
-message="This **message** contains _markdown_ and a [link](https://www.csrhymes.com).
+message="This **message** contains _markdown_ and a [link](https://jeremiahboothe.github.io).
 
 It also contains a second paragraph.
 

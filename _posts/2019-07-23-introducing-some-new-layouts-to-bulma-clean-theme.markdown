@@ -3,20 +3,20 @@ layout: post
 title:  "Introducing some new layouts to Bulma Clean Theme"
 date:   2019-07-23 08:00:07
 description: "Introducing Product Pages and Landing Pages for Bulma Clean Theme"
-image: 'https://www.csrhymes.com/img/landing-page.jpg'
-hero_image: https://www.csrhymes.com/img/landing-page.jpg
+image: 'https://jeremiahboothe.github.io/img/landing-page.jpg'
+hero_image: https://jeremiahboothe.github.io/img/landing-page.jpg
 hero_height: is-large
 published: false
 tags: webdev showdev webdesign
-canonical_url: https://www.csrhymes.com/2019/07/23/introducing-some-new-layouts-to-bulma-clean-theme.html
+canonical_url: https://jeremiahboothe.github.io/2019/07/23/introducing-some-new-layouts-to-bulma-clean-theme.html
 ---
 
 
-I’ve been meaning to write about some of the new features I have been rolling out to my Jekyll theme, [Bulma Clean Theme](https://www.csrhymes.com/bulma-clean-theme/), for a while but I have only just managed to push the update for the landing page layout last weekend. This article provides some of the thinking behind the updates, as well as a brief introduction to how to get started. 
+I’ve been meaning to write about some of the new features I have been rolling out to my Jekyll theme, [Bulma Clean Theme](https://jeremiahboothe.github.io/bulma-clean-theme/), for a while but I have only just managed to push the update for the landing page layout last weekend. This article provides some of the thinking behind the updates, as well as a brief introduction to how to get started. 
 
 ## Product Pages
 
-I use the theme to power my own personal website and decided that it would be good to update my [book pages](https://www.csrhymes.com/books), or book page as it was then. The page had used a very simple layout with both books on one page and was not really up to scratch. I decided it would be better to make each book its own page, and if I ever get round to it and write another book it would be easy to add another to the site in the future. Rather than just building these pages for my own site, I thought it would be a nice addition to the base theme. 
+I use the theme to power my own personal website and decided that it would be good to update my [book pages](https://jeremiahboothe.github.io/books), or book page as it was then. The page had used a very simple layout with both books on one page and was not really up to scratch. I decided it would be better to make each book its own page, and if I ever get round to it and write another book it would be easy to add another to the site in the future. Rather than just building these pages for my own site, I thought it would be a nice addition to the base theme. 
 
 I really like Jekyll as it is simple to use, but also very powerful. I decided to make the most of the frontmatter and allow you to set most of the product information in there, leaving the main content of the page for the text description. 
 
@@ -104,7 +104,7 @@ The data file should follow the below format. The name is the customer name, the
     The product worked exactly as described.
 ```
 
-Example [product category and product pages](https://www.csrhymes.com/bulma-clean-theme/products/) can be seen on the theme’s demo site here if you want to take a look. 
+Example [product category and product pages](https://jeremiahboothe.github.io/bulma-clean-theme/products/) can be seen on the theme’s demo site here if you want to take a look. 
 
 ## Landing Page Layout
 
@@ -156,7 +156,7 @@ callouts: example_callouts
 ---
 ```
 
-An example [landing page layout](https://www.csrhymes.com/bulma-clean-theme/landing/) can be seen in the theme’s demo site.
+An example [landing page layout](https://jeremiahboothe.github.io/bulma-clean-theme/landing/) can be seen in the theme’s demo site.
 
 ## What do you think?
 

@@ -11,7 +11,7 @@ items:
       This website utilises the built in blog and products layouts that come included with the theme.
     image: /img/csrhymes-com.jpg
     image_ratio: is-16by9
-    link: https://www.csrhymes.com
+    link: https://jeremiahboothe.github.io
     link_text: View the CS Rhymes Website
     tags: Bulma,CSS,Jekyll
     github: chrisrhymes/chrisrhymes.github.io

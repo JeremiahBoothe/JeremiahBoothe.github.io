@@ -43,7 +43,7 @@ Or install it yourself as:
 
 ### v1.0
 
-To deploy to GitHub pages using v1.x you will need to use GitHub Actions. Please see the [upgrade guide](https://www.csrhymes.com/bulma-clean-theme/docs/getting-started/upgrading-to-v1/) for more information.
+To deploy to GitHub pages using v1.x you will need to use GitHub Actions. Please see the [upgrade guide](https://jeremiahboothe.github.io/bulma-clean-theme/docs/getting-started/upgrading-to-v1/) for more information.
 
 ### v0.x
 
@@ -58,11 +58,11 @@ remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 
 ## Documentation
 
-Check out the demo site for the [Documentation](https://www.csrhymes.com/bulma-clean-theme/docs/)
+Check out the demo site for the [Documentation](https://jeremiahboothe.github.io/bulma-clean-theme/docs/)
 
 ## Upgrading to v1
 
-There are several breaking changes for v1. Please read the [upgrade guide](https://www.csrhymes.com/bulma-clean-theme/docs/getting-started/upgrading-to-v1/) for more information.
+There are several breaking changes for v1. Please read the [upgrade guide](https://jeremiahboothe.github.io/bulma-clean-theme/docs/getting-started/upgrading-to-v1/) for more information.
 
 ## Contributing
 
