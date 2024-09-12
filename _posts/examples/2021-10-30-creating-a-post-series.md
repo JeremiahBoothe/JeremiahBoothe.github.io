@@ -6,7 +6,7 @@ date: 2021-10-30 09:00:07
 hero_image: /bulma-clean-theme/img/blog-post-series.jpg
 image: /bulma-clean-theme/img/blog-post-series.jpg
 hero_height: is-large
-hero_darken: true
+hero_darken: false
 tags: bulma-clean-theme jekyll blog
 series: example_blog_series
 published: false
