@@ -5,8 +5,8 @@ date:   2018-05-28 10:50:07
 categories: development
 description: "There are many ways to make a website, but what about static site generators"
 image: 'https://jeremiahboothe.github.io//img/static-site-generator.jpg'
-published: false
-canonical_url: https://jeremiahboothe.github.io/development/2018/05/28/why-use-a-static-site-generator.html
+published: true
+canonical_url: https://jeremiahboothe.github.io/examples/2018/05/28/why-use-a-static-site-generator.html
 ---
 
 There are many ways to make a website and many different CMS platforms you can use, such as WordPress and Joomla, as well as site builder tools that offer you drag and drop interfaces, but what about static site generators? 
