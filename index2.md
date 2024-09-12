@@ -4,6 +4,7 @@ subtitle: by Jeremiah Boothe
 layout: page
 callouts: home_callouts
 show_sidebar: true
+published: false
 ---
 
 # Bulma Clean Theme demo website
