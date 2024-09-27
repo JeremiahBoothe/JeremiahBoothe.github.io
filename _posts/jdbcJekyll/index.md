@@ -6,7 +6,7 @@ categories: [development, android]
 description: "Revisiting the project that inspired me to return to college after 20 years, and earn my Computer Science Degree"
 image: 'https://jeremiahboothe.github.io/img/static-site-generator.jpg'
 published: false
-canonical_url: https://jeremiahboothe.github.io/androidfullcircle/index.html
+canonical_url: https://jeremiahboothe.github.io/jdbcJekyll/index.html
 series: android_full_circle_blog_series
 ---
 
