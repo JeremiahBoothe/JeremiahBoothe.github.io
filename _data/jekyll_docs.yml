@@ -1,0 +1,10 @@
+title: Jekyll Docs
+description: My Journey into Android Development - Before and After completing the SNHU C.S. Program
+sections:
+  - label: Getting Started
+    items:
+      - title: Why use a static site generator
+      - title: Getting started with Bulma Clean Theme for Jekyll
+  - label: Advanced Features
+    items:
+      - title: Jekyll Docs

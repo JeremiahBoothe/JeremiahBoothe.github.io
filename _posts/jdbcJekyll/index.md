@@ -7,7 +7,7 @@ description: "Revisiting the project that inspired me to return to college after
 image: 'https://jeremiahboothe.github.io/img/static-site-generator.jpg'
 published: true
 canonical_url: https://jeremiahboothe.github.io/jdbcJekyll/index.html
-series: documents_jekyll
+series: jekyll_docs
 ---
 
 //[jdbchttpsql](index.md)
