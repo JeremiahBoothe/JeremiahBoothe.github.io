@@ -3,7 +3,7 @@ title: Android - Full Circle
 subtitle: by Jeremiah Boothe
 layout: page
 callouts: home_callouts
-show_sidebar: true
+show_sidebar: false
 ---
 
 # I. Informal Code Review
