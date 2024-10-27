@@ -1,10 +1,10 @@
-- name: Docs
-  link: /docs/
-- name: Pages
-  link: /#
-  dropdown:
-    - name: Landing Page With Callouts
-      link: /landing/
+#- name: Docs
+#  link: /docs/
+#- name: Pages
+#  link: /#
+#  dropdown:
+#    - name: Landing Page With Callouts
+#      link: /landing/
     #- name: Promo Page
     #  link: /promo-page/
     #- name: Sponsors Page
@@ -14,13 +14,13 @@
     #- name: Products
     #  link: /products/
     #- name: Recipe Page
-      link: /example-recipe/
-    - name: Showcase
-      link: /showcase/
-- name: Blog
-  link: /blog/
-  dropdown: 
-    - name: blog
-      link: /blog/
+#      link: /example-recipe/
+#    - name: Showcase
+#      link: /showcase/
+#- name: Blog
+#  link: /blog/
+#  dropdown: 
+#    - name: blog
+#      link: /blog/
 
   
