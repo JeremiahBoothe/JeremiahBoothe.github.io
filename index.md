@@ -30,3 +30,4 @@ Pieces for Developers - Contributed the Gradle Build for the Kotlin SDK.  Pieces
 Obsidian - Note Taking Tool
 
 Security policy - hear me talk a lot
+https://youtu.be/5eXd4QOhrSw
