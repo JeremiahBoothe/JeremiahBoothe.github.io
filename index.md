@@ -4,14 +4,15 @@ subtitle: by Jeremiah Boothe
 layout: page
 callouts: home_callouts
 show_sidebar: false
-published: True
+published: true
 ---
+
 
 # Artifacts
 
-Android Full Circle
+Android Full Circle - Blog
 
-JDBC-HTTP-Database
+JDBC-HTTP-Database - Blog
 
 Augmented Reality App - Unity & Android with Custom UV Mapped Blender Assets
 
@@ -21,4 +22,8 @@ NixOs Configuration - Containerization
 
 Computer Graphics with OpenGL, Custom Textures and assets.
 
-Photogrammetry - turning series of photographs into 3d models, using a cell phone, positional metadata, and Zephyr to construct the 3D Models.
+Photogrammetry - turning series of photographs into 3d models, using a cell phone, positional metadata, and Zephyr to construct the 3D Models
+
+Pieces for Developers - Contributed the Gradle Build for the Kotlin SDK.  Pieces for Developers is a Copilot, in my opinion it excels in the ability to isolate from external influence making it extremly personalized to ones code, and Obsidian Markdown notes.
+
+Obsidian - Note Taking Tool
