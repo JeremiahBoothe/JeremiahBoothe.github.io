@@ -4,7 +4,7 @@ items:
     subtitle: ATS Compliant Resume
     icon: fa-copy
     call_to_action_name: Resume
-    call_to_action_link: /resume/
+    call_to_action_link: https://www.linkedin.com/in/jeremiahboothe/
   - title: Blog
     subtitle: Working through the process
     icon: fa-mail-bulk
