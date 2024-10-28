@@ -11,4 +11,4 @@ series: android_full_circle_blog_series
 ---
 
 # Android - First Attempts
-
+This project
