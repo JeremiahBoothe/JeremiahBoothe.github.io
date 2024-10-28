@@ -1,13 +1,13 @@
 title: Android Full Circle
 description: My Journey into Android Development - Before and After completing the SNHU C.S. Program
 sections:
-  - label: Getting Started
+  - label: Android/Kotlin
     items:
-      - title: Why use a static site generator
-      - title: Getting started with Bulma Clean Theme for Jekyll
-  - label: Advanced Features
-    items:
-      - title: Introducing some new layouts to Bulma Clean Theme
-      - title: Creating a docs site with Bulma Clean Theme
-      - title: Creating a post series
-      - title: Jekyll Docs
+      - title: JDBC-HTTP-DATABASE
+      - title: The Repository Module
+  #- label: Advanced Features
+  #  items:
+  #    - title: Introducing some new layouts to Bulma Clean Theme
+  #    - title: Creating a docs site with Bulma Clean Theme
+  #    - title: Creating a post series
+  #    - title: Jekyll Docs
