@@ -27,3 +27,5 @@ Photogrammetry - turning series of photographs into 3d models, using a cell phon
 Pieces for Developers - Contributed the Gradle Build for the Kotlin SDK.  Pieces for Developers is a Copilot, in my opinion it excels in the ability to isolate from external influence making it extremly personalized to ones code, and Obsidian Markdown notes.
 
 Obsidian - Note Taking Tool
+
+Security policy - hear me talk a lot
