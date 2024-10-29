@@ -21,7 +21,8 @@ Blender - Assets and Animation
 NixOs Configuration - Containerization
 
 Computer Graphics with OpenGL, Custom Textures and assets.
-https://github.com/JeremiahBoothe/CS_330_Computer_Graphics_and_Visualization
+[https://github.com/JeremiahBoothe/CS_330_Computer_Graphics_and_Visualization](https://github.com/JeremiahBoothe/CS_330_Computer_Graphics_and_Visualization)
+[OpenGL - 3D Scene](https://youtu.be/RFE1UTJen_U)
 
 Photogrammetry - turning series of photographs into 3d models, using a cell phone, positional metadata, and Zephyr to construct the 3D Models
 
