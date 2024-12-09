@@ -3,7 +3,7 @@ title: Android - Full Circle
 subtitle: by Jeremiah Boothe
 layout: page
 callouts: home_callouts
-show_sidebar: false
+show_sidebar: true
 published: true
 ---
 
