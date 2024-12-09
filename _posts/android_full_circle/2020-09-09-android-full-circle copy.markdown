@@ -4,8 +4,8 @@ title:  "Who am I?"
 date:   2020-09-09 10:50:07
 categories: [development, android]
 description: "Revisiting the project that inspired me to return to college after 20 years, and earn my Computer Science Degree"
-image: 'https://jeremiahboothe.github.io/img/Jeremiah_Potato.png'
-published: true
+image: 'https://jeremiahboothe.github.io/img/jeremiah-potato.png'
+published: false
 canonical_url: https://jeremiahboothe.github.io/androidfullcircle/2020/09/09/other.html
 series: android_full_circle_blog_series
 ---
