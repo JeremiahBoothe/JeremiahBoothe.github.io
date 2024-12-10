@@ -1,5 +1,5 @@
 ---
-title: Android - Full Circle
+title: Software Engineer's Journey
 subtitle: by Jeremiah Boothe
 layout: page
 callouts: home_callouts
