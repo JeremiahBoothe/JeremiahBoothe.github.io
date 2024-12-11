@@ -11,4 +11,6 @@ series: android_full_circle_blog_series
 ---
 
 # Android - First Attempts
-This project
+This project began during a life experience that impacted all of us across the globe.  The pandemic lockdown era.
+
+Like many others I found myself with too much time on my hands. I created Music, rediscovered my love for programming, and decided to dive in to Android Programming.
