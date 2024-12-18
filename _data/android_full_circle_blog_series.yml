@@ -5,9 +5,9 @@ sections:
     items:
       - title: JDBC-HTTP-DATABASE
       - title: The Repository Module
-  #- label: Advanced Features
+  #- label: Android/Kotlin
   #  items:
-  #    - title: Introducing some new layouts to Bulma Clean Theme
-  #    - title: Creating a docs site with Bulma Clean Theme
+  #    - title: JBRadio
+  #    - title: The Radio Player
   #    - title: Creating a post series
   #    - title: Jekyll Docs
