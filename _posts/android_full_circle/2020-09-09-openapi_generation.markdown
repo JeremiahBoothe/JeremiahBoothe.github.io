@@ -7,6 +7,7 @@ description: "Revisiting the project that inspired me to return to college after
 image: 'https://jeremiahboothe.github.io/img/static-site-generator.jpg'
 published: false
 canonical_url: https://jeremiahboothe.github.io/androidfullcircle/2020/09/09/openapigeneration.html
+series: openapi_generators
 ---
 
 # Backstory
