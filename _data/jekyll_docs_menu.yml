@@ -1,5 +1,5 @@
 - label: JDBC-HTTP-Database
-  items:
+  items:z
     - name: Installation
       link: /docs/getting-started/installation/
     - name: Upgrading to v1

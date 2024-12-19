@@ -5,9 +5,9 @@ sections:
     items:
       - title: JDBC-HTTP-DATABASE
       - title: The Repository Module
-  - label: Android/Kotlin
-    items:
-      - title: JBRadio
-      - title: The Radio Player
-      - title: Creating a post series
-      - title: Jekyll Docs
+  #z- label: Android/Kotlin
+  #  items:
+  #    - title: JBRadio
+  #    - title: The Radio Player
+  #    - title: Creating a post series
+  #    - title: Jekyll Docs
