@@ -12,7 +12,7 @@ In this section, I will present a code review video highlighting two critical co
 
 # A. Existing Functionality
 
-The JDBC-HTTP-DATABASE applicatio
+The JDBC-HTTP-DATABASE application
 
 The JDBC-HTTP Database retrieves JSON-formatted data from a specified website and efficiently stores it in both an SQL database and a MongoDB. This approach allows for versatile data storage and easy access via different database technologies. The data is processed and transformed as necessary, ensuring that it fits the requirements of both databases.
 

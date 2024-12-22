@@ -9,7 +9,7 @@ published: true
 canonical_url: https://jeremiahboothe.github.io/androidfullcircle/2020/09/09/android_full_circle_start.html
 series: android_full_circle_blog_series
 ---
-
+z
 # Android - First Attempts
 This project began during a life experience that impacted all of us across the globe.  The pandemic lockdown era.
 
